@@ -2,6 +2,6 @@ format: jb-book
 root: README
 
 chapters:
-  - file: notebooks/Manila_EDA_QA
   - file: notebooks/Turkey_EDA_QA
-
+  - file: notebooks/Manila_EDA_QA
+  
