@@ -1,6 +1,12 @@
 format: jb-book
 root: README
 
-chapters:
-  - file: notebooks/Turkey_EDA_QA
-  - file: notebooks/Manila_EDA_QA
+parts:
+  - caption: Exploratory Analysis
+    chapters:
+      - file: notebooks/Turkey_EDA_QA
+      - file: notebooks/Manila_EDA_QA
+
+  - caption: Methods
+    chapters:
+      - file: notebooks/Methodology
