@@ -10,3 +10,7 @@ parts:
   - caption: Methods
     chapters:
       - file: notebooks/Methodology
+
+  - caption: Case Studies
+    chapters:
+      - file: notebooks/Republic_day_report
