@@ -14,3 +14,4 @@ parts:
   - caption: Case Studies
     chapters:
       - file: notebooks/Republic_day_report
+      - file: notebooks/Earthquake_report
