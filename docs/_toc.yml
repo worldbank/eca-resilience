@@ -15,3 +15,4 @@ parts:
     chapters:
       - file: notebooks/Republic_day_report
       - file: notebooks/Earthquake_report
+      - file: notebooks/Heatwaves_report
