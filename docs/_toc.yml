@@ -10,6 +10,7 @@ parts:
   - caption: Methods
     chapters:
       - file: notebooks/Methodology
+      - file: notebooks/Methodology_land_usage
 
   - caption: Case Studies
     chapters:
