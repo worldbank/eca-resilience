@@ -1,4 +1,4 @@
-# Eca Resilience Project
+# ECA Resilience
 
 This project leverages GPS data to study human mobility and urban space usage. Case studies include changes in urban space usage during atypical events like earthquakes, floods, heatwaves and national festivities.
 
