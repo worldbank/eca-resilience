@@ -25,7 +25,7 @@ This project leverages GPS data to study human mobility and urban space usage. C
 
 ### Usage
 
-For detailed documentation and analysis notebooks, visit the [project documentation](https://supreme-bassoon-9qojyog.pages.github.io/README.html).
+For detailed documentation and analysis notebooks, visit the [project documentation](https://worldbank.github.io/eca-resilience/README.html).
 
 ## Contact 
 
