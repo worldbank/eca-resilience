@@ -1,5 +1,7 @@
 # ECA Resilience
 
+*[GitHub](https://github.com/worldbank/eca-resilience) · [Documentation](https://worldbank.github.io/eca-resilience/README.html) · [Development Data Partnership](https://datapartnership.org/)*
+
 This project leverages large-scale GPS mobility data to study human activity and urban space usage in response to atypical events. Using the **Urban Space Usage Index**, a normalized measure of relative human presence derived from anonymized mobile device location pings, the project quantifies deviations from typical mobility patterns and examines how cities respond to a range of shocks, from sudden natural disasters to planned public events and slow-onset climate stressors.
  
 Case studies span two countries and four distinct event types: the **2023 Turkey-Syria earthquakes**, **Republic Day celebrations in Istanbul**, **heatwaves in Metro Manila**, and **monsoon-driven flooding in Manila amplified by Typhoon Doksuri**.
