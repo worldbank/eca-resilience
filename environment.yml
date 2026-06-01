@@ -4,7 +4,7 @@ channels:
   - defaults
 
 dependencies:
-  - python=3.8
+  - python=3.11
 
   # Data handling
   - pandas
@@ -37,5 +37,5 @@ dependencies:
   # pip-only packages
   - pip
   - pip:
-    - h3pandas    # H3 integration for pandas/geopandas
-    - osmium      # low-level OSM PBF parsing (pyrosm dependency)
+    - h3pandas
+    - osmium
