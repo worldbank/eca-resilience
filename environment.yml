@@ -1,0 +1,41 @@
+name: eca-resilience
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.8
+
+  # Data handling
+  - pandas
+  - numpy
+  - pyarrow
+  - dask
+  - fastparquet
+
+  # Geospatial
+  - geopandas
+  - shapely
+  - h3-py
+  - rasterio
+  - rasterstats
+  - contextily
+  - pyrosm
+
+  # Statistics
+  - scipy
+
+  # Visualisation
+  - matplotlib
+  - seaborn
+  - bokeh
+  - plotly
+
+  # AWS
+  - boto3
+
+  # pip-only packages
+  - pip
+  - pip:
+    - h3pandas    # H3 integration for pandas/geopandas
+    - osmium      # low-level OSM PBF parsing (pyrosm dependency)
